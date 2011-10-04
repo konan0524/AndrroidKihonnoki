@@ -11,5 +11,7 @@ public class kihonndayo extends Activity {
 		setContentView(R.layout.main);
 
 		// アンドロイドって難しいのね・・・
+		// ブランチの基本？
+
 	}
 }
