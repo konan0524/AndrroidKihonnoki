@@ -10,10 +10,7 @@ public class kihonndayo extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 
-		// �A���h���C�h���ē���̂ˁE�E�E
-		// �u�����`�̊��{�H
-		
-		//pulltestsitemiyoukana;
+		// pulltestsitemiyoukana;
 
 	}
 }
