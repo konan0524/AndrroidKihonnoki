@@ -11,6 +11,10 @@ public class kihonndayo extends Activity {
 		setContentView(R.layout.main);
 
 		// pulltestsitemiyoukana;
+		// nextkoso;
+
+		// yattodekitakamome;
+		// nannka
 
 	}
 }
