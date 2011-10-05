@@ -12,18 +12,13 @@ public class kihonndayo extends Activity {
 
 		// pulltestsitemiyoukana;
 		// nextkoso;
-<<<<<<< HEAD
-		
-		yattodekitakamome;
-=======
 
+		// conflict okita
 		// yattodekitakamome;
 		// nannka;
-<<<<<<< HEAD
 
->>>>>>> aaa
-=======
 		// kokokookoko
->>>>>>> aaa
+
+		// kokokookoko
 	}
 }
