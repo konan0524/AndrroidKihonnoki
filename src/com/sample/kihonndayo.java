@@ -15,6 +15,6 @@ public class kihonndayo extends Activity {
 
 		// yattodekitakamome;
 		// nannka;
-
+		// kokokookoko
 	}
 }
